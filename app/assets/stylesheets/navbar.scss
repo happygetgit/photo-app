@@ -1,0 +1,23 @@
+// Custom fixes to remove dots from navbar
+.navbar-nav {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.custom-navbar {
+  background-color: #8a8b82;
+}
+
+.nav-link {
+  color: #141110; // Change to desired color
+  font-size: 20px;
+}
+
+.login {
+  border: 1px solid red;
+  margin-left: auto;
+}
+.signup {
+  border: 1px solid red;
+}
